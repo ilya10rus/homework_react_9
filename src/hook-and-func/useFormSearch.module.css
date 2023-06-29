@@ -1,0 +1,11 @@
+.search {
+	background: #fff;
+	margin-left: 10px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+}
+.FormSearch {
+	margin: 5px 10px 0 0;
+	display: flex;
+	justify-content: end;
+}

@@ -1,0 +1,25 @@
+.formCreate {
+	display: flex;
+	margin-top: 100px;
+}
+
+.userId {
+	background: #fff;
+	width: 180px;
+	margin: 0 5px 0 10px;
+	border-radius: 5px;
+}
+.create {
+	background: #fff;
+	width: 350px;
+	padding: 5px 10px 5px 10px;
+	border-radius: 5px;
+}
+.btn {
+	padding: 5px;
+	background: #2b2b2c;
+	color: #9d8ef1;
+	cursor: pointer;
+	border-radius: 5px;
+	margin-left: 5px;
+}
